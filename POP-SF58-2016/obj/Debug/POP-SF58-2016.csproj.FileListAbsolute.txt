@@ -1,0 +1,7 @@
+C:\Users\Ugrica\source\repos\POP-SF58-2016\POP-SF58-2016\bin\Debug\POP-SF58-2016.exe.config
+C:\Users\Ugrica\source\repos\POP-SF58-2016\POP-SF58-2016\bin\Debug\POP-SF58-2016.exe
+C:\Users\Ugrica\source\repos\POP-SF58-2016\POP-SF58-2016\bin\Debug\POP-SF58-2016.pdb
+C:\Users\Ugrica\source\repos\POP-SF58-2016\POP-SF58-2016\obj\Debug\POP-SF58-2016.csprojResolveAssemblyReference.cache
+C:\Users\Ugrica\source\repos\POP-SF58-2016\POP-SF58-2016\obj\Debug\POP-SF58-2016.csproj.CoreCompileInputs.cache
+C:\Users\Ugrica\source\repos\POP-SF58-2016\POP-SF58-2016\obj\Debug\POP-SF58-2016.exe
+C:\Users\Ugrica\source\repos\POP-SF58-2016\POP-SF58-2016\obj\Debug\POP-SF58-2016.pdb
