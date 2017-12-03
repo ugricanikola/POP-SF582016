@@ -13,10 +13,11 @@ namespace POP_SF58_2016.Model
         public string Sifra { get; set; }
         public double JedinicnaCena { get; set; }
         public int KolicinaUMagacinu { get; set; }
-
+        public int? AkcijaID { get; set; }
         public TipNamestaja TipNamestaja { get; set; }
         public bool Obrisan { get; set; }
 
 
     }
 }
+
